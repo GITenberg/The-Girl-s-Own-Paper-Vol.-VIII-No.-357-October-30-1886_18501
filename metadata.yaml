@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '116'
     url: http://www.gutenberg.org/2009/agents/116
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18501#The-Girl-s-Own-Paper-Vol.-VIII-No.-357-October-30-1886
 gutenberg_bookshelf: The Girls Own Paper
 gutenberg_issued: '2006-06-04'
 gutenberg_type: Text
